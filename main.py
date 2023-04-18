@@ -9,3 +9,8 @@ def test():
     add之后添加为蓝色
     """
     return content
+
+def git():
+    return "在项目部分使用添加相当于使用git add ."
+
+
